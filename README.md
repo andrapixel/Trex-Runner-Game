@@ -1,4 +1,4 @@
-# Trex-Runner-Game-Knock-off
+# Trex-Runner-Game
 The Desktop application version of the infamous Chrome T-rex Runner game that one can play when browsing offline. 
 
 ### Further developments I want to make
